@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\omshi\source\repos\Project3\Project3\Source.cpp(142,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omshi\source\repos\Project3\Project3\Source.cpp(144,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omshi\source\repos\Project3\Project3\Source.cpp(147,143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omshi\source\repos\Project3\Project3\Source.cpp(150,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\omshi\source\repos\Project3\x64\Debug\Project3.exe
